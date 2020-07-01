@@ -7,3 +7,15 @@ INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES
 (6,"Grinch", 2, "M", "Black", "Grinchy", 1),
 (7,"Wendy", 6, "F", "Blue", "naive", 1),
 (8,null, 20, "M", "black", "aggressive", 0);
+
+
+
+
+-- selects all of the female bears and returns their name and age (FAILED - 1)
+--   selects all of the bears names and orders them in alphabetical order (FAILED - 2)
+--   selects all of the bears names and ages that are alive and order them from youngest to oldest (FAILED - 3)
+--   selects the oldest bear and returns their name and age (FAILED - 4)
+--   selects the youngest bear and returns their name and age (FAILED - 5)
+--   selects the most prominent color and returns it with its count (FAILED - 6)
+--   counts the number of bears with goofy temperaments (FAILED - 7)
+--   selects the bear that killed Tim (FAILED - 8)
